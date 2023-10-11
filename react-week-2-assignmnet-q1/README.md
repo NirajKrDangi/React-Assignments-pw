@@ -26,19 +26,22 @@ To run this application locally on your machine, follow these steps:
 
 ## Install Dependencies 📦:
 
-```npm install
+```base
+npm install.
+
 This command will install all the necessary dependencies defined in the package.json file.
 
-## Start the Development Server 🖥️:
+1. **Start the Development Server** 🖥️:
 
-```npm start
+```base
+npm start
 This will start the development server and launch the application in your default web browser.
 
-## Interact with the Application 🖱️:
+2. **Interact with the Application** 🖱️:
 
 Once the application is running, you can interact with it in your web browser. You can switch between the login and sign-up forms and fill in the required information.
 
-## Make Changes or Contributions 🌟:
+3. **Make Changes or Contributions** 🌟:
 
 If you wish to make changes or contributions to the codebase, feel free to do so. After making changes, commit and push them to your own fork of the repository and create a pull request if you'd like to contribute back to the original project.
 
